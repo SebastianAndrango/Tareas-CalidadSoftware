@@ -9,3 +9,7 @@ C:\Users\Sebastian\Desktop\ESPE\7mo Nivel Software\Aseguramiento de la calidad d
 C:\Users\Sebastian\Desktop\ESPE\7mo Nivel Software\Aseguramiento de la calidad de Software\1 parcial\Tarea1\Tarea1\obj\Debug\Tarea1.csproj.CoreCompileInputs.cache
 C:\Users\Sebastian\Desktop\ESPE\7mo Nivel Software\Aseguramiento de la calidad de Software\1 parcial\Tarea1\Tarea1\obj\Debug\Tarea1.exe
 C:\Users\Sebastian\Desktop\ESPE\7mo Nivel Software\Aseguramiento de la calidad de Software\1 parcial\Tarea1\Tarea1\obj\Debug\Tarea1.pdb
+C:\Users\Sebastian\Desktop\ESPE\REPOSITORIOS GIT\Tareas-CalidadSoftware\Tarea1\Tarea1\obj\Debug\Tarea1.csproj.AssemblyReference.cache
+C:\Users\Sebastian\Desktop\ESPE\REPOSITORIOS GIT\Tareas-CalidadSoftware\Tarea1\Tarea1\obj\Debug\Tarea1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sebastian\Desktop\ESPE\REPOSITORIOS GIT\Tareas-CalidadSoftware\Tarea1\Tarea1\obj\Debug\Tarea1.exe
+C:\Users\Sebastian\Desktop\ESPE\REPOSITORIOS GIT\Tareas-CalidadSoftware\Tarea1\Tarea1\obj\Debug\Tarea1.pdb

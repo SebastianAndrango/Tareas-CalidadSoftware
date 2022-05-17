@@ -1,0 +1,6 @@
+projectKey=tarea2
+serverUrl=http://localhost:9000
+serverVersion=9.4.0.54424
+dashboardUrl=http://localhost:9000/dashboard?id=tarea2
+ceTaskId=AYDTDC-q9oN9vWxXZwo6
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYDTDC-q9oN9vWxXZwo6
